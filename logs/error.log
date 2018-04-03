@@ -1,0 +1,12 @@
+2018-04-03 08:58:04 [ ERROR ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:58:04 [ FATAL ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:58:05 [ FATAL ] [ com.hxsmart.ssm.service.HelloWorld ] debug info
+2018-04-03 08:59:05 [ ERROR ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:59:05 [ FATAL ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:59:05 [ FATAL ] [ com.hxsmart.ssm.service.HelloWorld ] debug info
+2018-04-03 08:59:46 [ ERROR ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:59:46 [ FATAL ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:59:46 [ FATAL ] [ com.hxsmart.ssm.service.HelloWorld ] debug info
+2018-04-03 08:59:51 [ ERROR ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:59:51 [ FATAL ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:59:51 [ FATAL ] [ com.hxsmart.ssm.service.HelloWorld ] debug info

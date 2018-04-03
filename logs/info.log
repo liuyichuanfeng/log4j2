@@ -1,0 +1,9 @@
+2018-04-03 08:59:46 [ INFO ] [ org.springframework.beans.factory.xml.XmlBeanDefinitionReader ] Loading XML bean definitions from file [E:\java\maven\demo\target\classes\Beans.xml]
+2018-04-03 08:59:46 [ FATAL ] [ com.hxsmart.ssm.service.HelloWorld ] debug info
+2018-04-03 08:59:51 [ INFO ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:59:51 [ WARN ] [ com.hxsmart.ssm.Main ] error info
+2018-04-03 08:59:51 [ ERROR ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:59:51 [ FATAL ] [ com.hxsmart.ssm.Main ] debug info
+2018-04-03 08:59:51 [ INFO ] [ org.springframework.context.support.FileSystemXmlApplicationContext ] Refreshing org.springframework.context.support.FileSystemXmlApplicationContext@691a7f8f: startup date [Tue Apr 03 08:59:51 CST 2018]; root of context hierarchy
+2018-04-03 08:59:51 [ INFO ] [ org.springframework.beans.factory.xml.XmlBeanDefinitionReader ] Loading XML bean definitions from file [E:\java\maven\demo\target\classes\Beans.xml]
+2018-04-03 08:59:51 [ FATAL ] [ com.hxsmart.ssm.service.HelloWorld ] debug info
